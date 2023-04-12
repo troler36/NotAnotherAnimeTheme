@@ -8,7 +8,7 @@
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
 
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+@import url(https://github.com/troler36/NotAnotherAnimeTheme/blob/master/build/v3/naat.v3.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://codeberg.org/TrolerJeans/pages/raw/branch/main/Omages/anime-kompiuter-sistemnye-platy.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(87, 181, 129);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.9);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://codeberg.org/TrolerJeans/pages/raw/branch/main/Omages/battle-programmer-shirase_2-s.jpg);
 
   /*
     Change your friends icon image position
